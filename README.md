@@ -1,6 +1,6 @@
 # Analysis-of-the-Disk-Structure-using-Sleuth-Kit
-## NAME: HARISHA S
-## REG.NO: 212223040063
+## NAME: GURURAGHAV PONJEEVITH V
+## REG.NO: 212223220027
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
 
