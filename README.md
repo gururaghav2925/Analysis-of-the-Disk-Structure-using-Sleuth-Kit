@@ -90,6 +90,8 @@ fls -f fat -o 0 disk.dd
 
 <img width="544" height="238" alt="Screenshot 2025-08-15 213145" src="https://github.com/user-attachments/assets/4f16229e-acb9-4516-b46b-88755d823a9d" />
 
+
+
 <img width="455" height="217" alt="Screenshot 2025-08-15 213200" src="https://github.com/user-attachments/assets/5a40cc25-ae3b-4264-a841-1d35080c17dc" />
 
 ## RESULT:
