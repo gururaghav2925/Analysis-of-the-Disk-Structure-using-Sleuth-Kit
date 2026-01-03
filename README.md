@@ -1,6 +1,5 @@
-# Analysis-of-the-Disk-Structure-using-Sleuth-Kit
-## NAME: GURURAGHAV PONJEEVITH V
-## REG.NO: 212223220027
+# WX NO 2 : Analysis-of-the-Disk-Structure-using-Sleuth-Kit
+
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
 
